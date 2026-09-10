@@ -1,0 +1,5 @@
+# Preserve the archived files byte for byte on every operating system.
+* -text
+assets/** binary
+originals/** -diff
+pages/** -diff

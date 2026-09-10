@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-10",
+  "saved_pages": 2806,
+  "recipe_pages_detected": 1454,
+  "saved_assets": 8815,
+  "asset_bytes": 1158050768,
+  "page_errors": [
+    {
+      "url": "https://nouveauraw.com/cdn-cgi/l/email-protection",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/cdn-cgi/l/email-protection"
+    },
+    {
+      "url": "https://nouveauraw.com/hemp-seed-milk-f/",
+      "error": "Not HTML: image/jpeg"
+    },
+    {
+      "url": "https://nouveauraw.com/house-plant-supplies/itisll-garden-pump-sprayer-portable-yard-lawn-sprayer-for-spraying-weeds-watering-home-cleaning-car-washing-0-5-gallon/",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/house-plant-supplies/itisll-garden-pump-sprayer-portable-yard-lawn-sprayer-for-spraying-weeds-watering-home-cleaning-car-washing-0-5-gallon/"
+    },
+    {
+      "url": "https://nouveauraw.com/house-plant-supplies/phyhoo-headband-magnifier-binocular-magnifying-glass-jewelry-magnifiers-head-mounted-double-lens-reading-jewelers-tools-head-wearing-4-magnifications/",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/house-plant-supplies/phyhoo-headband-magnifier-binocular-magnifying-glass-jewelry-magnifiers-head-mounted-double-lens-reading-jewelers-tools-head-wearing-4-magnifications/"
+    },
+    {
+      "url": "https://nouveauraw.com/almonds123/",
+      "error": "Not HTML: image/jpeg"
+    },
+    {
+      "url": "https://nouveauraw.com/figs-on-the-trees-that-are-maturing/",
+      "error": "Not HTML: image/jpeg"
+    },
+    {
+      "url": "https://nouveauraw.com/pecan-growing-in-a-tree/",
+      "error": "Not HTML: image/jpeg"
+    },
+    {
+      "url": "https://nouveauraw.com/raw-recipes/",
+      "error": "410 Client Error: Gone for url: https://nouveauraw.com/raw-recipes/"
+    },
+    {
+      "url": "https://nouveauraw.com/raw-techniques/",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/raw-techniques/"
+    },
+    {
+      "url": "https://nouveauraw.com/sweeteners-2/",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/sweeteners-2/"
+    }
+  ],
+  "asset_errors": [
+    {
+      "url": "https://nouveauraw.com/wp-content/uploads/2014/01/vegan-swiss-cheese-feature1.jpg",
+      "error": "404 Client Error: Not Found for url: https://nouveauraw.com/wp-content/uploads/2014/01/vegan-swiss-cheese-feature1.jpg"
+    }
+  ],
+  "limitations": [
+    "External video streams are not downloaded.",
+    "Original HTML retained; offline reader excludes comments, forms and related-post widgets.",
+    "Recipe count is heuristic; all saved pages are searchable."
+  ],
+  "unique_pages": 2066
+}
